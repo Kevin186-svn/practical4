@@ -1,8 +1,8 @@
-#include "EfficientTruckLoads.h"
+#include "EfficientTruckloads.h"
 
 using namespace std;
 
-int EfficientTruckLoads::E_numTrucks(int numCrates, int loadSize){
+int EfficientTruckloads::E_numTrucks(int numCrates, int loadSize){
 
         int E_C_T_U[10000];
 

@@ -1,7 +1,7 @@
 #include<iostream>
 #include "Reverse.h"
-#include "EfficientTruckLoads.h"
-#include "TruckLoads.h"
+#include "EfficientTruckloads.h"
+#include "Truckloads.h"
 
 using namespace std;
 
@@ -11,9 +11,9 @@ int main()
 
 Reverse rev1;
 
-TruckLoads T_L;
+Truckloads T_L;
 
-EfficientTruckLoads E_T_L;
+EfficientTruckloads E_T_L;
 
 //cout << "input:" << endl;
 
